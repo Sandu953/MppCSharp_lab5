@@ -1,0 +1,74 @@
+2024-03-31 16:51:20,013 [1] INFO  lab4.Repository.AgentieRepository - Agentie with id 1 was successfully saved.
+2024-03-31 16:51:20,046 [1] INFO  lab4.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 16:51:20,050 [1] INFO  lab4.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 16:51:20,064 [1] INFO  lab4.Repository.AgentieRepository - Agentie with id 28 was successfully updated.
+2024-03-31 16:51:20,076 [1] INFO  lab4.Repository.AgentieRepository - Agentie with id 29 was successfully updated.
+2024-03-31 16:51:20,080 [1] INFO  lab4.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 16:51:20,083 [1] INFO  lab4.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 16:51:20,094 [1] INFO  lab4.Repository.AgentieRepository - Agentie with id 28 was successfully deleted.
+2024-03-31 16:51:20,108 [1] INFO  lab4.Repository.AgentieRepository - Agentie with id 29 was successfully deleted.
+2024-03-31 18:07:00,630 [1] INFO  lab5.Repository.AgentieRepository - Agentie with id 1 was successfully saved.
+2024-03-31 18:07:00,659 [1] INFO  lab5.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 18:07:00,664 [1] INFO  lab5.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 18:07:00,678 [1] INFO  lab5.Repository.AgentieRepository - Agentie with id 30 was successfully updated.
+2024-03-31 18:07:00,680 [1] INFO  lab5.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 18:07:00,683 [1] INFO  lab5.Repository.AgentieRepository - All agentii retrieved successfully.
+2024-03-31 18:07:00,693 [1] INFO  lab5.Repository.AgentieRepository - Agentie with id 30 was successfully deleted.
+2024-04-01 00:19:39,454 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:23:58,123 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:29:07,733 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:31:10,286 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:38:02,658 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:45:42,907 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:39,052 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:47,011 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:48,283 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:48,574 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:48,726 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:48,866 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:49,017 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:49,619 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:49,906 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:50,046 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:52,443 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:52,597 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:46:52,761 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:48:03,495 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:49:31,854 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:50:28,226 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:51:04,270 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:56:27,677 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:56:43,296 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:57:02,931 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:59:32,953 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 00:59:54,787 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:00:04,482 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:04:23,255 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:04:31,446 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:04:47,046 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:07:23,268 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:24:28,634 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:25:02,177 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:26:45,319 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:26:56,896 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:27:09,824 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:33:33,740 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:33:42,848 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:33:59,729 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:34:09,582 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:34:44,993 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:35:16,712 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:35:27,057 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:36:25,280 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:36:36,018 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 01:36:43,617 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:08:43,680 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:08:49,093 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:09:12,696 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:09:17,391 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:09:18,753 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:09:41,235 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 14:09:52,786 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 17:18:13,339 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 17:19:01,635 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
+2024-04-01 17:19:15,203 [1] INFO  lab5.Repository.ExcursieRepository - All excursii retrieved successfully.
